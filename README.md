@@ -9,7 +9,7 @@ The first thing I did was break down the task. Instead of randomly assigning col
 
 ![bonsai_exercise](https://github.com/user-attachments/assets/e1d4cc1b-7574-4e40-8a88-504cfdb9710d)
 
-### Step-by-Step:
+#### Step-by-Step:
 ##### 1. Loading the Model:
 
 * Loading the IFC file into the script using IfcStore.get_file()
